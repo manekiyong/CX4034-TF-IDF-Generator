@@ -28,6 +28,6 @@ There are example values `tfidf-input.xlsx` and `tfidf-results.xlsx`, based on A
 ![Results](README_Attachments/tfidfresult.jpg)
 
 
-### Remarks
+## Remarks
 1) I understand the code is not the cleanest, neither is it optimised, it was a pet project written in 1 day so please be forgiving.
 2) For Term Frequency (Logarithmic), some PYP uses `1+log(tf)` while others use `log(tf+1)`. You may switch between either by uncommenting and commenting the appropriate lines in `if tfnotation =='l':` case inside `tfCalc()` function. 
