@@ -23,7 +23,8 @@ Before you begin, ensure that you have pandas & numpy installed on your python e
 5) Cosine Similarity & Euclidean Distance will be printed, and the tf-idf values will be exported to `tfidf-results.xlsx`
 
 ### Example Results
-There are example values `tfidf-input.xlsx` and `tfidf-results.xlsx`, based on AY1819 Semester 2 Examination Question. 
+There are example values `tfidf-input.xlsx` and `tfidf-results.xlsx`, based on AY1819 Semester 2 Examination Question.
+
 ![Results](README_Attachments/tfidfresult.jpg)
 
 
