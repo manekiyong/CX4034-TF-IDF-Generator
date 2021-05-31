@@ -1,6 +1,10 @@
 # CX4034 TF-IDF Generator
  Written for NTU CE4034/CZ4034 Information Retrieval. Tabulates tf-idf results based on typical tutorial/examination question formats.
 
+#### BONUS:
+When I made this commit, we've already submitted the Past Year Paper solutions, nonetheless, if you visit this space, you're in luck because there's another tool in this space on top of the TF-IDF calculator. I also made an Excel sheet that performs Levenshtein Calculation with Insertion, Deletion & Substitution cost modifiable. Refer to AY2021 Semester 2 Examination Solutions for explanation on Levenshtein equation. 
+
+
 ## Introduction
 This repository takes in terms, documents, its term frequencies, and a query, to produce the tf-idf values of each document, as well as the Cosine Similarity & Euclidean Distance to the query based on the SMART notation given. The SMART features implemented in this script is limited to those that are covered in CX4034 . They are:
 
